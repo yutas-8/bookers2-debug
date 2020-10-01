@@ -57,5 +57,4 @@ class BooksController < ApplicationController
       redirect_to "/books"
     end
   end
-
 end
